@@ -20,6 +20,7 @@ Jeżeli zajdą takie sytuacje, rzuć wyjątkiem.
 Gdy student wybierze wszystkie przedmioty, jakie chce zrealizować, generowany jest jego plan
 zajęć w formie pliku tekstowego.
 Przykładowy wygenerowany plan zajęć:
+
 PLAN ZAJĘC
 PONIEDZIAŁEK
 • Analiza matematyczna, dr Monika Okulska, 6 ECTS, godz. 12:00, aula II
